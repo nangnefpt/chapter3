@@ -1,0 +1,14 @@
+E:\chapter3\Solution1\OPP_Inheritance\bin\Debug\net8.0\OPP_Inheritance.exe
+E:\chapter3\Solution1\OPP_Inheritance\bin\Debug\net8.0\OPP_Inheritance.deps.json
+E:\chapter3\Solution1\OPP_Inheritance\bin\Debug\net8.0\OPP_Inheritance.runtimeconfig.json
+E:\chapter3\Solution1\OPP_Inheritance\bin\Debug\net8.0\OPP_Inheritance.dll
+E:\chapter3\Solution1\OPP_Inheritance\bin\Debug\net8.0\OPP_Inheritance.pdb
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\OPP_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\OPP_Inheritance.AssemblyInfoInputs.cache
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\OPP_Inheritance.AssemblyInfo.cs
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\OPP_Inheritance.csproj.CoreCompileInputs.cache
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\OPP_Inheritance.dll
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\refint\OPP_Inheritance.dll
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\OPP_Inheritance.pdb
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\OPP_Inheritance.genruntimeconfig.cache
+E:\chapter3\Solution1\OPP_Inheritance\obj\Debug\net8.0\ref\OPP_Inheritance.dll

@@ -1,0 +1,14 @@
+E:\chapter3\Solution1\OPP-dahinh\bin\Debug\net8.0\OPP-dahinh.exe
+E:\chapter3\Solution1\OPP-dahinh\bin\Debug\net8.0\OPP-dahinh.deps.json
+E:\chapter3\Solution1\OPP-dahinh\bin\Debug\net8.0\OPP-dahinh.runtimeconfig.json
+E:\chapter3\Solution1\OPP-dahinh\bin\Debug\net8.0\OPP-dahinh.dll
+E:\chapter3\Solution1\OPP-dahinh\bin\Debug\net8.0\OPP-dahinh.pdb
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\OPP-dahinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\OPP-dahinh.AssemblyInfoInputs.cache
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\OPP-dahinh.AssemblyInfo.cs
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\OPP-dahinh.csproj.CoreCompileInputs.cache
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\OPP-dahinh.dll
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\refint\OPP-dahinh.dll
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\OPP-dahinh.pdb
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\OPP-dahinh.genruntimeconfig.cache
+E:\chapter3\Solution1\OPP-dahinh\obj\Debug\net8.0\ref\OPP-dahinh.dll

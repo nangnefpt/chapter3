@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\chapter3\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F549395B-A1BE-4D8C-84FC-10982AEB2277}|Default interface method\\Default interface method.csproj|e:\\chapter3\\solution1\\default interface method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F549395B-A1BE-4D8C-84FC-10982AEB2277}|Default interface method\\Default interface method.csproj|solutionrelative:default interface method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B38F11A-3CAD-4D08-A4C1-FC9495B680D4}|OPP-interface\\OPP-interface.csproj|e:\\chapter3\\solution1\\opp-interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B38F11A-3CAD-4D08-A4C1-FC9495B680D4}|OPP-interface\\OPP-interface.csproj|solutionrelative:opp-interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50065781-5F24-46AA-98BA-0AA956CF6C9F}|OPP-dahinh\\OPP-dahinh.csproj|e:\\chapter3\\solution1\\opp-dahinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50065781-5F24-46AA-98BA-0AA956CF6C9F}|OPP-dahinh\\OPP-dahinh.csproj|solutionrelative:opp-dahinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B1BE59-A5A6-4380-AEF8-16A10E00D3E2}|OPP_Encapsulatiom\\OPP_Encapsulatiom.csproj|e:\\chapter3\\solution1\\opp_encapsulatiom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B1BE59-A5A6-4380-AEF8-16A10E00D3E2}|OPP_Encapsulatiom\\OPP_Encapsulatiom.csproj|solutionrelative:opp_encapsulatiom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194485CA-065D-4932-8CBE-E199E52ED64E}|OPP_Inheritance\\OPP_Inheritance.csproj|e:\\chapter3\\solution1\\opp_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194485CA-065D-4932-8CBE-E199E52ED64E}|OPP_Inheritance\\OPP_Inheritance.csproj|solutionrelative:opp_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\chapter3\\Solution1\\Default interface method\\Program.cs",
+              "RelativeDocumentMoniker": "Default interface method\\Program.cs",
+              "ToolTip": "E:\\chapter3\\Solution1\\Default interface method\\Program.cs",
+              "RelativeToolTip": "Default interface method\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:48:45.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\chapter3\\Solution1\\OPP-interface\\Program.cs",
+              "RelativeDocumentMoniker": "OPP-interface\\Program.cs",
+              "ToolTip": "E:\\chapter3\\Solution1\\OPP-interface\\Program.cs",
+              "RelativeToolTip": "OPP-interface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:32:34.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\chapter3\\Solution1\\OPP-dahinh\\Program.cs",
+              "RelativeDocumentMoniker": "OPP-dahinh\\Program.cs",
+              "ToolTip": "E:\\chapter3\\Solution1\\OPP-dahinh\\Program.cs",
+              "RelativeToolTip": "OPP-dahinh\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwCEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:27:10.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\chapter3\\Solution1\\OPP_Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "OPP_Inheritance\\Program.cs",
+              "ToolTip": "E:\\chapter3\\Solution1\\OPP_Inheritance\\Program.cs",
+              "RelativeToolTip": "OPP_Inheritance\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:54:16.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\chapter3\\Solution1\\OPP_Encapsulatiom\\Program.cs",
+              "RelativeDocumentMoniker": "OPP_Encapsulatiom\\Program.cs",
+              "ToolTip": "E:\\chapter3\\Solution1\\OPP_Encapsulatiom\\Program.cs",
+              "RelativeToolTip": "OPP_Encapsulatiom\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:50:11.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

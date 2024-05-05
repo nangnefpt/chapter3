@@ -1,0 +1,14 @@
+E:\chapter3\Solution1\OPP-interface\bin\Debug\net8.0\OPP-interface.exe
+E:\chapter3\Solution1\OPP-interface\bin\Debug\net8.0\OPP-interface.deps.json
+E:\chapter3\Solution1\OPP-interface\bin\Debug\net8.0\OPP-interface.runtimeconfig.json
+E:\chapter3\Solution1\OPP-interface\bin\Debug\net8.0\OPP-interface.dll
+E:\chapter3\Solution1\OPP-interface\bin\Debug\net8.0\OPP-interface.pdb
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\OPP-interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\OPP-interface.AssemblyInfoInputs.cache
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\OPP-interface.AssemblyInfo.cs
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\OPP-interface.csproj.CoreCompileInputs.cache
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\OPP-interface.dll
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\refint\OPP-interface.dll
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\OPP-interface.pdb
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\OPP-interface.genruntimeconfig.cache
+E:\chapter3\Solution1\OPP-interface\obj\Debug\net8.0\ref\OPP-interface.dll

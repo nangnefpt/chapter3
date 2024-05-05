@@ -1,0 +1,14 @@
+E:\chapter3\Solution1\Default interface method\bin\Debug\net8.0\Default interface method.exe
+E:\chapter3\Solution1\Default interface method\bin\Debug\net8.0\Default interface method.deps.json
+E:\chapter3\Solution1\Default interface method\bin\Debug\net8.0\Default interface method.runtimeconfig.json
+E:\chapter3\Solution1\Default interface method\bin\Debug\net8.0\Default interface method.dll
+E:\chapter3\Solution1\Default interface method\bin\Debug\net8.0\Default interface method.pdb
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\Default interface method.GeneratedMSBuildEditorConfig.editorconfig
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\Default interface method.AssemblyInfoInputs.cache
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\Default interface method.AssemblyInfo.cs
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\Default interface method.csproj.CoreCompileInputs.cache
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\Default interface method.dll
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\refint\Default interface method.dll
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\Default interface method.pdb
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\Default interface method.genruntimeconfig.cache
+E:\chapter3\Solution1\Default interface method\obj\Debug\net8.0\ref\Default interface method.dll
